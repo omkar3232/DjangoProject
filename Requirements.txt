@@ -1,0 +1,8 @@
+Django>=4.0,<5.0
+mysqlclient==2.2.5
+use mariadb if mysqlclient fails
+mariadb==1.1.10
+python-dotenv>=0.21.0  # If using environment variables
+requests>=2.27.1  # For API interactions
+pytest-django>=4.5.2
+djangorestframeworks
