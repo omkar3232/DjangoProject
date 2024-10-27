@@ -1,4 +1,4 @@
-$ CRUD_API
+
 CRUD API for Client and Project entities
 This setup provides a basic CRUD API for managing Clients and Projects in a Django application using MySQL.
 
