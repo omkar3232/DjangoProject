@@ -1,6 +1,5 @@
 
-CRUD API for Client and Project entities
-This setup provides a basic CRUD API for managing Clients and Projects in a Django application using MySQL.
+ A basic CRUD API for managing Clients and Projects in a Django using rest framework, MySQL.
 
 ---------------------------------------------------------------------------------
 You can now test your API endpoints using Postman or any other API client:
